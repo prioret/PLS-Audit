@@ -1,0 +1,13 @@
+Ip Address <225.25.25.25>: Port <6008>: MCSJoin went O.K 
+**In callback**  Para = 1 Srvc = 1080819712 Inst = 1 msgType = 1 len = 33
+** Msg is 
+**In callback**  Para = 1 Srvc = 1080819712 Inst = 2 msgType = 1 len = 33
+** Msg is 
+**In callback**  Para = 1 Srvc = 1080819712 Inst = 1 msgType = 1 len = 33
+** Msg is 
+**In callback**  Para = 1 Srvc = 1080819712 Inst = 2 msgType = 1 len = 33
+** Msg is 
+**In callback**  Para = 1 Srvc = 1080819712 Inst = 1 msgType = 1 len = 33
+** Msg is 
+**In callback**  Para = 1 Srvc = 1080819712 Inst = 2 msgType = 1 len = 33
+** Msg is 
